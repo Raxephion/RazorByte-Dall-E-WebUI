@@ -72,7 +72,7 @@ This project is a **minimalist, no-nonsense desktop UI** for generating images u
 4. To launch the app later, just run:
 
    ```bash
-   run.bat
+   launch.bat
    ```
 
 ### 🐍 Manual Setup (if needed):
